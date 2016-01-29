@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dow: MyString
+  time_start: 2016-01-29 01:27:55
+  time_end: 2016-01-29 01:27:55
+
+two:
+  dow: MyString
+  time_start: 2016-01-29 01:27:55
+  time_end: 2016-01-29 01:27:55

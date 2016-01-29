@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dow: MyString
+  media: MyString
+  time_start: 1
+  time_end: 1
+  complete: MyString
+
+two:
+  dow: MyString
+  media: MyString
+  time_start: 1
+  time_end: 1
+  complete: MyString
